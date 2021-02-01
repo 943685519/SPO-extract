@@ -1,4 +1,4 @@
-# 基于transformers框架的三元组抽取baseline
+# 基于transformers框架的三元组抽取
 
 ## how to use
 
